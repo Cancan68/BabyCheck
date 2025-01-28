@@ -1,0 +1,29 @@
+# This scripts creates all the .prc files and rename them if needed
+
+mv Makefile.txt Makefile
+cp translation.rcp.all.h translation.rcp.h
+export LANG2=""
+export LANG=En
+make
+export LANG=Fr
+make
+export LANG=Es
+make
+export LANG=De
+make
+export LANG=Nl
+make
+export LANG=Br
+make
+cp translationru.h translation.rcp.h
+export LANG=Ru
+export LANG2=-Fc
+make
+
+# Rename the .prc files
+# ---------------------
+
+mv babycheckEn.prc babycheck.prc
+mv Makefile Makefile.txt
+ls -l *prc
+mv *prc ..

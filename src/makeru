@@ -1,0 +1,5 @@
+# This scripts creates all the .prc files and rename them if needed
+
+export LANG=Ru
+cp translationru.h translation.rcp.h
+make -f Makefile.ru

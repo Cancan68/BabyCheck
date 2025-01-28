@@ -1,0 +1,144 @@
+Menus and screen titles:
+-----------------------
+"Baby" = 
+"New" = 
+"Update" = 
+"Delete" = 
+"Data" = 
+"Measurements" = 
+"First Words" = 
+"First Actions" = 
+"Vaccinations" = 
+"Symbolic" = 
+"Infos" = 
+"Preferences" = 
+"About" = 
+"Date" = 
+
+General:
+-------
+"Error" = 
+"Ok" = 
+"Cancel" = 
+"Back" = 
+
+First screen:
+------------
+"New" = 
+"Update" = 
+"Del." = 
+"Measur" = 
+"F. Words" = 
+"Actions" = 
+"Shots" = 
+"Symbol" = 
+
+"Do you really want to delete the info for this baby?" = 
+"You must first select a baby" = 
+"You need at least Palm OS 3.5 to run this application" = 
+
+Birth information screen:
+------------------------
+"Birth Information" = 
+"First Name:" = 
+"Birthdate:" = 
+"Time:" = 
+"Weight:" = 
+"Height:" = 
+"Birth Date" = 
+"Birth Time" = 
+"Sexe" = 
+"Male" = 
+"Female" = 
+
+Measurements screen:
+--------------------
+"Weight" = 
+"Height" = 
+"Memo" = 
+"Graph." = 
+"Date for the Measurement" = 
+"The data have been transferred to the Memo" = 
+"Weight in Kg" = 
+"Weight in Lbs" = 
+"Height in Cm" = 
+"Height in Inches" = 
+"BMI" = 
+"Body Mass Indicator" = 
+" the " (for a date ex: the 01/01/2004) = 
+" for " (ex: BabyCheck for firstname) = 
+
+First words and actions screens:
+-------------------------------
+"You must first select a row number" = 
+"Date for the Word" = 
+"Date for the Action" = 
+   
+Vaccinations screen:
+-------------------
+"Please check with your doctor if your baby needs all of them." = 
+"Hepat. (HepB)" = 
+"DTaP" = 
+"Haemoph. (HiB)" = 
+"Polio (IPV)" = 
+"MMR" = 
+"Varicella (VAR)" = 
+"Pneumo. (PCV)" = 
+"Date of vaccination" = 
+
+Symbolic screen:
+---------------
+"Lucky number:" = 
+"Lucky period:" = 
+"Zodiacal sign:" = 
+"In this screen the lucky number and period corresponding to the firstname and the zodiacal sign and period corresponding to the birthdate are displayed" = 
+"Jan" = 
+"Feb" = 
+"Mar" = 
+"Apr" = 
+"May" = 
+"Jun" = 
+"Jul" = 
+"Aug" = 
+"Sep" = 
+"Oct" = 
+"Nov" = 
+"Dec" = 
+"Aries" = 
+"Taurus" = 
+"Gemini" = 
+"Cancer" = 
+"Leo" = 
+"Virgo" = 
+"Libra" = 
+"Scorpio" = 
+"Sagittarius" = 
+"Capricorn" = 
+"Aquarius" = 
+"Pisces" = 
+
+Preferences screen:
+------------------
+"Weight Unit:" = 
+"Height Unit:" = 
+"Kg" = 
+"Cm" = 
+"Lb" = 
+"In" = 
+
+Information screen:
+------------------
+"Babies information administration" = 
+"Weight and Height follow up during the 3 first years" = 
+"Visual check with the average values" = 
+"List of the first words" = 
+"List of the first actions" = 
+"Vaccinations checklist" = 
+"Birth information: Weight, Height, Date and Time" = 
+"Zodiacal sign and period" = 
+"Firstname symbolic (lucky number, lucky period)" = 
+
+About screen:
+------------
+"About BabyCheck" = 
+"This application is Freeware" = 

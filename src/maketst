@@ -1,0 +1,16 @@
+# This scripts creates all the .prc files and rename them if needed
+
+export LANG=Fr
+cp translation.rcp.all.h translation.rcp.h
+mv Makefile.txt Makefile
+make
+
+# Rename the .prc files
+# ---------------------
+
+#mv babycheckEn.prc babycheck.prc
+#cp babycheck.prc /drive/d/Palm/Simulator//Palm_OS_52_Simulator_Dbg/Debug/autorun
+#cp ../*PDB /drive/d/Palm/Simulator//Palm_OS_52_Simulator_Dbg/Debug/autorun
+mv Makefile Makefile.txt
+ls -l *prc
+mv *prc ..

@@ -1,0 +1,60 @@
+## Makefile for BabyCheck
+
+VERSION 	= 2.41
+TARGET 		= babycheck
+APPNAME 	= BabyCheck
+APPID 		= CanC
+ICONTEXT	= "BabyCheck"
+
+SRC = babycheck.c frmAbout.c
+
+RCP = $(APPNAME).rcp
+PRC = $(APPNAME)$(LANG).prc
+CC	= m68k-palmos-gcc
+CPP	= cpp
+CFLAGS	= -Wall -O2 -Wno-switch
+OBJRES	= m68k-palmos-obj-res
+MG	= m68k-palmos-multigen
+PILRC 	= pilrc -q -L $(LANG) $(LANG2)
+OBJRES 	= m68k-palmos-obj-res
+SECTIONS	= $(APPNAME)-sections
+DEF		= $(APPNAME).def
+BUILDPRC = build-prc
+
+all: langcp $(PRC) clean
+
+$(PRC) : $(TARGET) bin.stamp
+	$(BUILDPRC) $(DEF) $(ICONTEXT) *.bin -o $(PRC)
+
+$(TARGET) : $(SRC:.c=.o) $(SECTIONS).o $(SECTIONS).ld
+	$(CC) $(CFLAGS) -o $@ $^
+
+bin.stamp :
+	touch $(APPNAME).rcp.in
+	$(CPP) $(APPNAME).rcp.in -o $(APPNAME).rcp~ -P
+	sed 's/##VERSION##/$(VERSION)/g' <$(APPNAME).rcp~ >$(APPNAME).rcp~~
+	sed 's/##APPNAME##/$(APPNAME)/g' <$(APPNAME).rcp~~ >$(APPNAME).rcp~
+	sed 's/##APPID##/$(APPID)/g' <$(APPNAME).rcp~ >$(APPNAME).rcp
+	$(PILRC) $(APPNAME).rcp
+
+%.o : %.c
+	$(CC) $(CFLAGS) -c $<  -o $@
+	touch $<
+
+$(SECTIONS).o : $(SECTIONS).s
+	$(CC) $(CFLAGS) -c $< -o $@
+
+$(SECTIONS).s $(SECTIONS).ld : $(DEF)
+	$(MG) $(DEF)
+
+res:resclean
+	make
+
+depend dep:
+	$(CC) -M $(SRC) > .dependencies
+
+langcp:
+	cp lang$(LANG).h lang.h
+
+clean:
+	rm -rf  $(TARGET) *.bin *.grc *.stamp *~ *.rcp lang.h *.bak *.ld *.s *.o

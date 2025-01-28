@@ -1,0 +1,159 @@
+Menus and screen titles:
+-----------------------
+"Baby" = Bebê
+"New" = Novo
+"Update" = Editar
+"Delete" = Excluir
+"Data" = Dados
+"Measurements" = Medidas
+"First Words" = Primeiras Palavras
+"First Actions" = Primeiras Ações
+"Vaccinations" = Vacinação
+"Symbolic" = Símbolos
+"Infos" = Infos
+"Preferences" = Preferências
+"About" = Sobre
+"Date" = Data
+
+General:
+-------
+"Error" = Erro
+"Ok" = OK
+"Cancel" = Cancelar 
+"Back" = Voltar
+
+First screen:
+------------
+"New" = Novo
+"Update" = Editar
+"Del." = Excluir
+"Measur" = Medidas
+"F. Words" = 1as.Palav.
+"Actions" = Ações
+"Shots" = Vacinas
+"Symbol" = Símbolos
+
+"Do you really want to delete the info for this baby?" =  Você realmente quer
+eliminar as informações deste bebê?
+"You must first select a baby" = Você precisa primeiro selecionar um bebê
+"You need at least Palm OS 3.5 to run this application" = Você precisa ter ao menos
+Palm OS 3.5 para rodar esta aplicação
+
+Birth information screen:
+------------------------
+"Birth Information" = Informação do nascimento
+"First Name:" = Primeiro Nome
+"Birthdate:" = Data nasc.
+"Time:" = Horário
+"Weight:" = Peso
+"Height:" = Altura
+"Birth Date" = Data de nascimento
+"Birth Time" = Hora de nascimento
+"Sexe" = Sexo
+"M" = M
+"F" = F
+
+Measurements screen:
+--------------------
+"Weight" = Peso
+"Height" = Altura
+"Memo" = Memorando
+"Graph." = Gráfico
+"Date for the Measurement" = Data da medição
+"The data have been transferred to the Memo" =Os dados foram transferidos para
+Memorando 
+"Weight in Kg" = Peso em kg
+"Weight in Lbs" = Peso em lbs
+"Height in Cm" = Altura em cm
+"Height in Inches" = Altura em pol
+"BMI" = IMC
+"Body Mass Indicator" = Índice de Massa Corporal
+" the " (for a date ex: the 01/01/2004) = ( * )
+" for " (ex: BabyCheck for firstname) = para
+
+( * ) defined articles are not used before dates in Portuguese, except when the date
+has an special meaning, e.g. holidays. In this case I think you need the translation
+for use in the text sent to memo, so you can use the word "em".
+
+First words and actions screens:
+-------------------------------
+"You must first select a row number" = Você deve selecionar uma linha numerada
+"Date for the Word" = Data para a palavra
+"Date for the Action" = Data da ação
+
+Vaccinations screen:
+-------------------
+"Please check with your doctor if your baby needs all of them." = Por favor
+verifique com seu médico se seu bebê precisa de todas elas
+"Hepat. (HepB)" = Hepat. (HepB)
+"DTaP" = 
+"Haemoph. (HiB)" = 
+"Polio (IPV)" = Poliomielite
+"MMR" = 
+"Varicella (VAR)" = 
+"Pneumo. (PCV)" = Pneumo.
+"Date of vaccination" = Data da vacinação
+
+Symbolic screen:
+---------------
+"Lucky number:" = Número de sorte
+"Lucky period:" = Período de sorte
+"Zodiacal sign:" = Signo do Zodíaco
+"In this screen the lucky number and period corresponding to the firstname and the
+zodiacal sign and period corresponding to the birthdate are displayed" = Nesta tela
+o número e período de sorte correspondem ao primeiro nome e o signo zodiacal
+corresponde à data de nascimento apresentada
+"Jan" = Jan
+"Feb" = Fev
+"Mar" = Mar
+"Apr" = Abr
+"May" = Mai
+"Jun" = Jun
+"Jul" = Jul
+"Aug" = Ago
+"Sep" = Set
+"Oct" = Out
+"Nov" = Nov
+"Dec" = Dez
+"Aries" = Áries
+"Taurus" = Touro
+"Gemini" = Gêmeos
+"Cancer" = Câncer
+"Leo" = Leão
+"Virgo" = Virgem
+"Libra" = Libra
+"Scorpio" = Escorpião
+"Sagittarius" = Sagitário
+"Capricorn" = Capricórnio
+"Aquarius" = Aquário
+"Pisces" = Peixes
+
+Preferences screen:
+------------------
+"Weight Unit:" = Unidade de peso
+"Height Unit:" = Unidade de altura
+"Kg" = Kg
+"Cm" = Cm
+"Lb" = Lb
+"In" = Pol
+
+Information screen:
+------------------
+"Babies information administration" = Administração de informações sobre bebês
+"Weight and Height follow up during the 3 first years" = Acompanhamento de peso e
+altura durante os 3 primeiros anos
+"Visual check with the average values" = Avaliação visual com valores médios
+"List of the first words" = Lista das primeiras palavras
+"List of the first actions" = Lista das primeiras ações
+"Vaccinations checklist" = Checklist de vacinação
+"Birth information: Weight, Height, Date and Time" = Informações do nascimento:
+peso, altura, dia e hora
+"Zodiacal sign and period" = Signo e período zodiacal
+"Firstname symbolic (lucky number, lucky period)" = Simbolismo do primeiro nome
+(número de sorte, período de sorte)
+
+About screen:
+------------
+"About BabyCheck" = Sobre BabyCheck
+"This application is Freeware" = Esta aplicação é Freeware
+

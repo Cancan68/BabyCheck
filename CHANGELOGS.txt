@@ -1,0 +1,84 @@
+v2.4 (1 August 2004)
+----
+	Added: Support for Hires+ modes (320x480 and 480x320) for all screens and graphs
+	Added: When creating a blank entry for "First words" or "First Actions", it will be removed automatically when selecting one of the buttons (e.g. Back)
+	Added: You can now click on the icon of the main screen to see the About screen
+	Bug correction: When the smallest enry for weight and/or height was less than the first value of the minimum curve divided by 2, the entry was not displayed
+	Bug correction: When leaving the sex popup in the birth information screen without selecting something, female was selected
+	Bug correction: A separator was missing when exporting measurements to the memo
+	Bug correction: Big icon in Hires. A white point could be seen in the top right corner
+	Bug correction: Some French accents were missing + some others small adjustments
+
+
+v2.3 (14 April 2004)
+----
+	Added: Possibility to select another baby to be displayed at the same time on the graphs
+	Bug correction: the automatic BMI calculation is now ok in the measurement detail screen
+
+v2.2 (11 March 2004)
+----
+	Added: Brazilian version - thanks to Ciro Rodrigues for the translation
+	Added: Sexe in the Birth Information screen
+	Added: BMI calculation in the mensurations detail screen
+	Added: BMI graph according the child sexe
+	Added: BMI in the measurements Memo exportation
+
+v2.1 (21 January 2004)
+----
+	Added: Dutch version - thanks to Susan Krieger for the translation
+	Added: Russian version - thanks to Alexey Kashkarov for the translation and Patrice Bernard for helping me to implement it
+	Changed: When exporting the data to the memo, the headers are now written in the application language
+	Changed: When creating a new baby entry in the database, the default name is now according the language (New, Neu, Nouveau, ...)
+	Changed: Some screens adjustments (vaccination screen title, size of the buttons and position of the logo in the main screen)
+
+v2.0 (27 October 2003)
+----
+	Added: Possibility to export in a CSV form the data (measurements, first words and first actions) from BabyCheck to the Memo. The character ';' is used ad delimiter because '.' and ',' can be used as decimal separator. After Hotsync you are then able to import the data in any spreadsheet or database on your desktop.
+	Added: If the firstname is too long to fit the main screen list size it will be shorten for the display and '...' will be added at the end
+	Added: More place to enter the firstname in the Birth Information screen
+	Added: When creating a new Baby record, the default text 'New' is selected allowing you to overwrite it directly
+	Added: Help text in the symbolic screen
+
+v1.4 (21 September 2003)
+----
+	Bug correction: When updating the birth info after having entering some measurements the birth weight and height were ones of the new measurements and not the real ones.
+
+	Added: Multiline edition for the first words and first actions
+	Added: You can now delete a word or action if the line is selected (you had to select the row number line before). Only for OS 4.0 and more.
+	Added: German version - thanks to Gerd Kempf for the translation
+
+	Misc. bug corrections
+
+v1.3 (7 September 2003)
+----
+	Bug correction: Don't need anymore the High Resolution Assist to be running on SONY Clié
+	Bug correction: A black screen appears instead of the graphs on Tungsten T
+	Bug correction: The characters were not well displayed in the graphs for SONY Clié devices with OS 5
+
+	Added: The SONY Clié specificities are autodected (no specific .prc needed anymore)
+
+	The list of the babies is completly rewritten
+	Minor bug corrections
+	Layout standardisations
+
+v1.2 (30 August 2003)
+----
+	Bug correction: A blue bar appeared after selecting a first action or first word
+	Bug correction: The weight entered as x,0y were displayed as x,y but saved correctly
+
+	Added: Vaccinations section
+	Added: The applications databases are saved during Hotsync
+	Added: Spanish version - thanks to Faustino Montaner for the translation
+	Added: High Density logo for the Sony Clié
+	Added: The OS5 specificities are autodetected (no specific .prc needed anymore)
+
+v1.1 (19 August 2003)
+----
+	Bug correction: Hotsync crash
+	
+	Added: First actions section
+	Added: Zodiacal period in the symbolic section
+
+v1.0 (17 August 2003)
+----
+	Initial release.

@@ -1,0 +1,73 @@
+BabyCheck
+
+Taille fichier zip: 163 Ko
+--------------------------
+http://www.campredon.net/palm.php?para=babycheck&titre=BabyCheck&lang=En
+http://www.palmattitude.org/developpeurs/cancan/babycheck.zip
+
+Images:
+-------
+http://www.campredon.net/palm/babycheck.jpg
+http://www.campredon.net/palm/babycheckfr.jpg
+http://www.campredon.net/babycheckichr.bmp
+
+Present sur le site :
+---------------------
+www.pdassi.de
+www.handango.com
+www.palmgear.com							5 étoiles	1 vote
+www.freewarepalm.com
+www.palmattitude.com
+www.eurocool.com
+www.palmr.com (espagnol)
+www.slunecnice.cz/product/BabyCheck/ 					4 fleurs
+descargas.terra.es/informacion_extendida.phtml?n_id=29041&plat=5	MB
+www.softonic.com/informacion_extendida.phtml?n_id=29041&plat=5		MB
+www.hpc.ru/soft/software.phtml?id=5326					4,5/5
+www.clubic.com								2 étoiles
+
+Eurocool:
+---------
+Weight and Height follow up during the 3 first years, visual check with the average values, list of the first words, list of the first actions, vaccinations checklist, birth information (Weight, Height, Date and Time), zodiacal sign and period, first name symbolic (lucky number, lucky period). Export measurements, first words and first actions to the Memo in a CSV form (delimiter ';') allowing you to import the data in any spreadsheet or database on your desktop after Hotsync. This program works in Kg or Lb, Cm or In. The program works on color and black&white devices
+
+Freewarepalm:
+-------------
+<u>Babies information administration</u>
+<br>Features:
+<li>Weight and Height follow up during the 3 first years
+<li>Visual check with the average values
+<li>List of the first words
+<li>List of the first actions
+<li>Vaccinations checklist
+<li>Birth information: Weight, Height, Date and Time
+<li>Zodiacal sign and period
+<li>Firstname symbolic (lucky number, lucky period)
+<li>Export measurements, first words and first actions to the Memo in a CSV form (delimiter ';') allowing you to import the data in any spreadsheet or database on your desktop after Hotsync
+<br><br>This program works in Kg or Lb, Cm or In.
+<br>The application works on color and black&white devices.
+<br><br>Program size 47 Ko
+<br>
+The graphics are displayed in 320x320 mode on Sony Cliés and Palm OS 5 devices. Support for Hires+ modes (320x480 and 480x320) if available.<br><br>
+The Brazilian, Dutch, English, French, German, Russian and Spanish version are included in the zip file
+<br><br>
+<u>Update Description v2.4</u>
+<li>Added: Support for Hires+ modes (320x480 and 480x320)
+<li>Added: When creating a blank entry for "First words" or "First Actions", it will be removed automatically when selecting one of the buttons (e.g. Back)
+<li>Added: You can now click on the icon of the main screen to see the About screen
+<li>Bug correction: When the smallest enry for weight and/or height was less than the first value of the minimum curve divided by 2, the entry was not displayed
+<li>Bug correction: When leaving the sex popup in the birth information screen without selecting something, female was selected
+<li>Bug correction: A separator was missing when exporting measurements to the memo
+<li>Bug correction: Big icon in Hires. A white point could be seen in the top right corner
+<li>Bug correction: Some French accents were missing + some others small adjustments
+
+Palmattitude:
+-------------
+<br><br><b>La version 2.4 apporte:</b>
+<li>Support du mode Hires+ (320x480 and 480x320) 
+<li>Si l'on créé une nouvelle entrée dans les sections "Premiers mots" et "Premières actions" sans rien saisir et que l'on clique sur un bouton, la ligne est maintenant automatiquement supprimée.
+<li>Un clic sur l'icone de l'écran principal amène à l'écran "A propos de BabyCheck"
+<li>Si une valeur saisie dans les mensurations (poids ou taille) était inférieure à la valeur de la courbe "minimum" divisée par 2, elle n'était pas visible sur le graph.
+<li>Dans l'écran des informations sur la naissance, lorsque l'on affichait le popup des sexes et que l'on cliquait à coté pour sortir sans rien selectionner, la valeur "Féminin" était automatiquement attribuée.
+<li>Un séparateur était manquant dans l'exportation des mensurations vers le mémo
+<li>La grande icone en haute résolution n'a plus le fameux petit point blanc en haut à droite
+<li>D'autres petits trucs comme des accents ou des ponctuations qui manquaient, etc...
