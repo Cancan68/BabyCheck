@@ -2,8 +2,8 @@
 
 ## Main
 ![Main screen](./babycheckhr.jpg)
-![Landscape](./babycheckhr.jpg)
-![Extended Portait](./babycheckhr.jpg)
+![Landscape](./babyla.jpg)
+![Extended Portait](./babypo.jpg)
 
 ## Birth Information
 ![Birth screen](./babycheck2hr.jpg)
