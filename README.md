@@ -22,7 +22,6 @@ The extended modes 320x480 and 480x320 ae fully supported for both the screens a
 The pogram is Freeware
 
 Web Site: https://www.campedon.net/
-Babycheck page: http://www.campedon.net/palm.php?para=babycheck&titre=BabyCheck&lang=En
 
 ## Support
 
